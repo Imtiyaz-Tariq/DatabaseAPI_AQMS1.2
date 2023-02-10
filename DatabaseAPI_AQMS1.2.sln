@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseAPI_AQMS1.2", "DatabaseAPI_AQMS1.2\DatabaseAPI_AQMS1.2.csproj", "{686CFD75-685A-4BEB-A6AA-BF16D6A85DDA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AQMS_API_Test", "TestProject1\AQMS_API_Test.csproj", "{4683C43A-F170-4EB2-B345-97D731859C34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{686CFD75-685A-4BEB-A6AA-BF16D6A85DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686CFD75-685A-4BEB-A6AA-BF16D6A85DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686CFD75-685A-4BEB-A6AA-BF16D6A85DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686CFD75-685A-4BEB-A6AA-BF16D6A85DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4683C43A-F170-4EB2-B345-97D731859C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4683C43A-F170-4EB2-B345-97D731859C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4683C43A-F170-4EB2-B345-97D731859C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4683C43A-F170-4EB2-B345-97D731859C34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C31919B6-B16C-4B24-A8DD-85965A5D692F}
+	EndGlobalSection
+EndGlobal
